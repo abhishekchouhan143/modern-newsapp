@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/modern-newsapp/static/css/main.fb8c130e.css",
+    "main.js": "/modern-newsapp/static/js/main.9f4f7490.js",
+    "static/js/453.b2157c12.chunk.js": "/modern-newsapp/static/js/453.b2157c12.chunk.js",
+    "index.html": "/modern-newsapp/index.html",
+    "main.fb8c130e.css.map": "/modern-newsapp/static/css/main.fb8c130e.css.map",
+    "main.9f4f7490.js.map": "/modern-newsapp/static/js/main.9f4f7490.js.map",
+    "453.b2157c12.chunk.js.map": "/modern-newsapp/static/js/453.b2157c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb8c130e.css",
+    "static/js/main.9f4f7490.js"
+  ]
+}
