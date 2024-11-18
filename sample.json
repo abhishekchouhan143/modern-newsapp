@@ -1,0 +1,136 @@
+{
+   "status": "ok",
+   "totalResults": 10,
+   "articles": [
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "BBC News",
+         "title": "Endurance: Shackleton's lost ship as never seen before",
+         "description": "A new 3D scan shows Endurance exactly as it is 3,000m down in Antarctica’s icy waters.",
+         "url": "https://www.bbc.co.uk/news/articles/cd6qz387qjgo",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/26e4/live/565b76b0-8574-11ef-822c-a50726bfda2e.jpg",
+         "publishedAt": "2024-10-10T11:52:16.2586219Z",
+         "content": "Shackletons descendants say Endurance will never be raised - and its location in one of the most remote parts of the globe means visiting the wreck again would be extremely challenging.\r\nBut Nico Vin… [+869 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "BBC News",
+         "title": "Gosport War Memorial Hospital deaths: Police identify 24 suspects",
+         "description": "Several people are being investigated for alleged gross negligence manslaughter over the deaths.",
+         "url": "https://www.bbc.co.uk/news/articles/c3wp31358pqo",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f6b2/live/5321dcf0-86dc-11ef-9329-f30486eb2a33.jpg",
+         "publishedAt": "2024-10-10T11:37:21.2746871Z",
+         "content": "Police confirmed no-one had yet been arrested but interviews had been carried out under caution.\r\nRepresenting some of the families affected, Emma Jones, from Leigh Day Solicitors, said the news was … [+494 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "BBC News",
+         "title": "Mortgage rates predicted to increase in next few days",
+         "description": "Recent falls in rates could come to \"an abrupt halt\" in the next few days, according to brokers",
+         "url": "https://www.bbc.co.uk/news/articles/c93yenv5r74o",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/28b3/live/48709d20-86e4-11ef-928a-e7e83ca29af6.jpg",
+         "publishedAt": "2024-10-10T11:22:16.5307728Z",
+         "content": "Mortgage customers and house-hunters will hope any mortgage rate increases are small and short-lived. \r\nAnalysts say the increase in swap rates could have been caused by a number of reasons, includin… [+1100 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "BBC News",
+         "title": "Clarkson’s Farm: Welsh vet Dilwyn Evans on life at Diddly Squat",
+         "description": "Dilwyn Evans says the hit TV show has shed light on what life for farmers is really like.",
+         "url": "https://www.bbc.co.uk/news/articles/c206z9qw533o",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c789/live/8dd711d0-86f0-11ef-9329-f30486eb2a33.png",
+         "publishedAt": "2024-10-10T11:07:17.2436009Z",
+         "content": "Clarksons Farm vet Dilwyn Evans has said that Jeremy Clarkson has \"learned a lot\" through the course of the series.\r\n\"He didn't know a lot at the beginning but now he knows how animals behave. He loo… [+405 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "BBC News",
+         "title": "The nostalgic 1950s photos which were almost lost forever",
+         "description": "A series of images from the era have emerged more than a decade after they were almost thrown away.",
+         "url": "https://www.bbc.co.uk/news/articles/cyvy5l7rjqgo",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c512/live/3283eed0-8497-11ef-ad45-893aa022fcbc.jpg",
+         "publishedAt": "2024-10-10T10:37:25.7744926Z",
+         "content": "\"I thought it was a good image which possibly deserved to be seen, with an interesting back story, and it might generate some interest,\" he told BBC Scotland News.\r\n\"However, I wasn't quite expecting… [+505 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "BBC News",
+         "title": "New Zealand minister criticises trolling of sunk ship's female captain",
+         "description": "HMNZS Manawanui ran aground off Samoa on Saturday, prompting a rescue and recovery operation.",
+         "url": "https://www.bbc.co.uk/news/articles/cwylvw9qqd5o",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/42f8/live/884c2f00-86ed-11ef-928a-e7e83ca29af6.png",
+         "publishedAt": "2024-10-10T10:37:15.6494548Z",
+         "content": "\"A court of inquiry has been stood up to establish what caused this terrible incident,\" said Judith Collins, New Zealands first female defence minister. \r\n\"The one thing that we already know did not … [+1944 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "BBC News",
+         "title": "Yung Filly: YouTuber charged over sexual assault in Australia",
+         "description": "The 29-year-old is best known for being part of the YouTube collective Beta Squad.",
+         "url": "https://www.bbc.co.uk/news/articles/c2ekvm2j4z1o",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c1c5/live/718ad4c0-86d3-11ef-9329-f30486eb2a33.jpg",
+         "publishedAt": "2024-10-10T10:07:23.0409456Z",
+         "content": "The full charges include four counts of sexual penetration without consent, three counts of assault occasioning bodily harm and one count of impeding a person's normal breathing or circulation by app… [+539 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "BBC News",
+         "title": "False claims about Hurricane Milton's origins spread online",
+         "description": "Social media is awash with bogus claims that Hurricane Milton has been “engineered”. What are the facts?",
+         "url": "https://www.bbc.co.uk/news/articles/cx2lyzw7xwxo",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8991/live/61bfd3a0-864d-11ef-822c-a50726bfda2e.png",
+         "publishedAt": "2024-10-10T08:37:19.6350895Z",
+         "content": "But this trend fits with expectations of hurricanes generally intensifying more quickly in a warming world.\r\nAs we warm the planet, we anticipate a lot of potential impacts to hurricanes that can mak… [+1353 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "BBC News",
+         "title": "BBC Weather app forecasts hurricane force winds",
+         "description": "\"Don't be alarmed folks,\" says weather presenter Matt Taylor after a data glitch on the site.",
+         "url": "https://www.bbc.co.uk/news/articles/c0kjrp2rngzo",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e2d9/live/f134fad0-86d2-11ef-84ad-99c1c3003fd7.png",
+         "publishedAt": "2024-10-10T07:37:17.4640288Z",
+         "content": "In Edinburgh, the glitch suggested winds speed would be 17,246mph. In Belfast, it was suggested gusts would reach 14,398mph, and in Cardiff winds were said to be 12,585mph. \r\nMeanwhile, Truro in Corn… [+932 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "BBC News",
+         "title": "Workers' rights: Sick pay and parental leave part of major overhaul",
+         "description": "The deputy prime minister described a new bill as the \"biggest upgrade to rights at work for a generation\".",
+         "url": "https://www.bbc.co.uk/news/articles/cp3w8n48234o",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0ed2/live/f6115a20-8651-11ef-95e2-abae237bd1c1.jpg",
+         "publishedAt": "2024-10-10T00:52:20.2713211Z",
+         "content": "Dominic Ponniah, the boss of Cleanology, told the BBC his firm is delaying hiring plans while being more cautious of who it takes on.\r\nThe cleaning company he runs has about 1,300 employees located f… [+1783 chars]"
+      }
+   ]
+}
